@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="protein">Eiweiß</string>
+    <string name="carbohydrate">Kohlenhydrate</string>
+    <string name="fat">Fett</string>
+    <string name="fibers">Ballaststoffe</string>
+    <string name="valuesPer">pro</string>
+    <string name="serving">Portionsgröße</string>
+    <string name="calculator">Rechner</string>
+    <string name="database">Datenbank</string>
+</resources>

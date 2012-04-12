@@ -1,0 +1,6 @@
+bin
+gen
+.ant-targets-build.xml
+local.properties
+build.properties
+proguard/*
